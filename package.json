@@ -1,0 +1,28 @@
+{
+  "name": "kudos",
+  "version": "1.0.0",
+  "description": "Kudos Token",
+  "keywords": [
+    "truffle",
+    "testrpc",
+    "ethereum",
+    "web3",
+    "solidity"
+  ],
+  "scripts": {
+    "test": "truffle test"
+  },
+  "author": {
+    "name": "José Pereira",
+    "email": "zepcp@hotmail.com",
+    "url": "https://github.com/zepcp"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "abi-decoder": "^1.2.0",
+    "slackbots": "^1.1.0",
+    "truffle": "^4.1.7",
+    "truffle-contract": "^3.0.3",
+    "web3": "^0.19.1"
+  }
+}
