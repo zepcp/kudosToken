@@ -21,7 +21,7 @@
   "dependencies": {
     "abi-decoder": "^1.2.0",
     "slackbots": "^1.1.0",
-    "truffle": "^4.1.7",
+    "truffle": "^5.7.9",
     "truffle-contract": "^3.0.3",
     "web3": "^0.19.1"
   }
